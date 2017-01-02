@@ -1,0 +1,9 @@
+---
+title: "Wichita Animal Offenses 2016"
+author: "Diana Alexxander"
+date: "January 1, 2017"
+output: html_document
+---
+
+#My Findings:
+##Animals running loose are the main animal offenses in Wichita.
